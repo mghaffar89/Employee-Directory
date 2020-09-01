@@ -3,7 +3,7 @@
 ## Application Link & Live Demo
 
 Git Hub: https://github.com/mghaffar89/Employee-Directory
-Heroku:
+Heroku: https://aqueous-castle-44954.herokuapp.com/
 
 ## Description
 
