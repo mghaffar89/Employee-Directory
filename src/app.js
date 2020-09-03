@@ -1,6 +1,6 @@
 import React from "react";
 import Jumbotron from "./components/Jumbotron";
-import API from "./utils/API";
+import API from "./utils/api";
 import Table from "./components/Table";
 import Search from "./components/Search";
 
